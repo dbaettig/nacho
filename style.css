@@ -57,10 +57,10 @@ h1{
   display:flex;
   justify-content: center;
   border-radius:100px;
-  background-color:#DFF5D0;
+  background-color:#B8D1B1;
   width:150px;
   height:150px;
-  -webkit-animation: bounce-in-top 1.4s 5s both;
+  -webkit-animation: bounce-in-top 1.4s 7s both;
   animation: bounce-in-top 1.4s 5s both;
    margin-bottom:-60px;
   margin-right:5px;
@@ -75,7 +75,7 @@ h1{
 #text{
   background-color:#F5C825;
   padding:20px 30px;
-  margin: 0px 0px 50px 0px;
+  margin: 0px 0px 40px 0px;
 }
 #text p{
   font-size:1.5em;
@@ -92,8 +92,6 @@ a{
   font-family:'pacifico';
   color:white;
   font-size:1.2em;
-}
-
 
  @-webkit-keyframes slide-in-left {
     0% {
@@ -145,7 +143,6 @@ a{
       opacity: 1;
     }
   }
-
 
   @-webkit-keyframes shake-vertical {
     0%,
