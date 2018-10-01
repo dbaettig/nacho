@@ -7,5 +7,5 @@ function scrollTo(element) {
 }
 
 document.getElementById("scrollArrow").addEventListener('click', () => {
-    scrollTo(document.getElementById("text"));
+    scrollTo(document.getElementById("bounceWrapper"));
 });  

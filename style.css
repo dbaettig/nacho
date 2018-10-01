@@ -52,7 +52,7 @@ h2{
    padding-bottom:50px;
 
 }
-.bounceWrapper{
+#bounceWrapper{
   display:flex;
   justify-content:flex-end;
 }
@@ -60,7 +60,7 @@ h2{
   display:flex;
   justify-content: center;
   border-radius:100px;
-  background-color:#B8D1B1;
+  background-color:rgb(192, 208, 233);
   width:150px;
   height:150px;
   -webkit-animation: bounce-in-top 1.4s 7s both;
